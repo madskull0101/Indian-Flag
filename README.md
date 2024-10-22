@@ -30,14 +30,13 @@ This repository contains the code to create the Indian national flag using only 
 
    Open the `IndianFlag.html` file in your web browser to view the Indian flag.
 
-## File Structure
-
+```plaintext
 IndianFlag/
 │
 ├── IndianFlag.html    # Main HTML file
 ├── IndianFlag.css     # CSS file for styling
 └── README.md     # Project documentation
-
+```
 
 - `IndianFlag.html`: Contains the structure and layout of the flag.
 - `IndianFlag.css`: Contains the CSS rules to style and proportionally create the Indian flag, including the tricolor stripes and Ashoka Chakra.
