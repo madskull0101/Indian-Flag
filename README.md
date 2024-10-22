@@ -20,16 +20,11 @@ This repository contains the code to create the Indian national flag using only 
 1. **Clone the Repository**
 
    To use this code on your local machine, clone the repository:
-
-   ```bash
    git clone https://github.com/madskull0101/Indian-Flag.git
-   ```
+   
 
 2. **Navigate to the Project Directory**
-
-   ```bash
    cd Indian-Flag
-   ```
 
 3. **Run the Page**
 
@@ -76,5 +71,3 @@ Contributions are welcome! If you have any suggestions or want to improve the co
 ## License
 
 This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
