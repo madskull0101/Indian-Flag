@@ -13,7 +13,7 @@ This repository contains the code to create the Indian national flag using only 
 ## Preview
 
 ![Indian Flag Screenshot](https://github.com/user-attachments/assets/b7f22bc7-7df8-4590-85a1-cf25f382567b)
-)
+
 
 ## Installation
 
